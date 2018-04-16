@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RCA.Interface\RCA.Interface.csproj" />
+  </ItemGroup>
+
 </Project>
